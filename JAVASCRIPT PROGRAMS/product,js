@@ -1,0 +1,9 @@
+const product= { 
+    title: "Ball Pen",
+    ratign: 4,
+    offer: 5,
+    price:270
+};
+console.log(product);
+
+// "abcd"+12=abcd12
